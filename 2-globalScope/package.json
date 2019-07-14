@@ -1,0 +1,11 @@
+{
+  "name": "2-globalscope",
+  "version": "1.0.0",
+  "description": "Global Scope",
+  "main": "global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
